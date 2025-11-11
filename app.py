@@ -21,6 +21,6 @@ if st.button("Check"):
         if prediction == 1:
             st.success("✅ This news seems REAL!")
         else:
-            st.error("🚨 This news seems FAKE!")
+            st.error("🚨 This news seems FAKE FAKER!")
     else:
         st.warning("Please enter some text first.")
